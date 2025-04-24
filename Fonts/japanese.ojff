@@ -4,7 +4,7 @@
     "monowidth": "True",
     "character_width": "30",
     "size": "1"
-  },か	き	く	け	こ
+  },
   "か": "dot 8 5 curve 8 5 16 40 12 15 dot 5 28 curve 5 28 25 28 20 30 curve 25 28 25 7 35 25 curve 25 7 20 5 24 5 line 43 25 35 32",
   "き": "line 17 35 33 34 line 16 27 34 26 line 22 40 32 16 curve 32 16 15 14 18 23 curve 15 14 31 6 15 5",
   "く": "line 32 40 14 22 cont 32 5",
